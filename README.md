@@ -15,3 +15,8 @@ rafaela.ramazzotte@escola.pr.gov.br
 ![descrição do GIF](link GIF do Tenor)
 
 ![](link)
+
+A palavra **limão** deve ser destacada.
+
+> Escrito por Alura Start
+
